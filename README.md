@@ -1,3 +1,3 @@
-# cbt
+# cbt Nuggets demo repo
 
-Hello
+Hello, this repo is for running the CBTNuggets AZ400 demos
